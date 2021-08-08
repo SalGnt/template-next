@@ -7,15 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [1.0.0] - 2021-08-08
-### Added
-- Packages management handled using [pnpm](https://pnpm.io/).
-
 ### Changed
 - Upgrade Next.js to [version 11](https://nextjs.org/docs/upgrading#upgrading-from-version-10-to-11).
-- Upgrade npm packages.
-
-### Removed
-- Dropped npm.
+- Replace npm with [pnpm](https://pnpm.io/) for package management.
 
 ## [0.1.0] - 2021-05-08
 ### Added
