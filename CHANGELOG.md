@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - Next.js 11 ESLint experience.
+- Prettier configuration.
 
 ### Changed
 - Replace Tailwind CSS with [Windi CSS](https://windicss.org/).

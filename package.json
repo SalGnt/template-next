@@ -10,18 +10,26 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@types/node": "^15.14.7",
     "@types/react": "^17.0.16",
     "eslint": "^7.32.0",
     "eslint-config-next": "^11.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "husky": "^7.0.1",
+    "lint-staged": "^11.1.2",
     "next": "11.0.1",
+    "prettier": "2.3.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "typescript": "^4.3.5",
     "windicss": "^3.1.6",
     "windicss-webpack-plugin": "^1.4.3"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
   }
 }
