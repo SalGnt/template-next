@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       <Head>
         <title>@salgnt/next-template</title>
-        <meta name="description" content="Next.js Template with TypeScript, Tailwind CSS, Jest, ESLint, Prettier." />
+        <meta name="description" content="Next.js Template with TypeScript, Tailwind CSS, Jest, ESLint, Prettier, pnpm." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
