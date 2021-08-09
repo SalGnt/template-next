@@ -1,3 +1,5 @@
+[![Release](https://img.shields.io/github/v/tag/SalGnt/next-template?label=Release&style=for-the-badge)](https://github.com/SalGnt/next-template/releases/latest)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
