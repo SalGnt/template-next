@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.0] - 2021-08-09
+### Added
+- GNU GPLv3 license.
+- Jest.
+
 ## [2.0.0] - 2021-08-09
 ### Added
 - Next.js 11 ESLint experience.
@@ -26,7 +31,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - TypeScript support.
 - Tailwind CSS configuration.
 
-[Unreleased]: https://github.com/SalGnt/next-template/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/SalGnt/next-template/compare/v2.1.0...HEAD
+[2.1.0]: https://github.com/SalGnt/next-template/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/SalGnt/next-template/compare/v1.0.0...v2.0.0
 [1.0.0]: https://github.com/SalGnt/next-template/compare/v0.1.0...v1.0.0
 [0.1.0]: https://github.com/SalGnt/next-template/releases/tag/v0.1.0
