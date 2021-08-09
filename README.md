@@ -1,5 +1,5 @@
-[![Release](https://img.shields.io/github/v/tag/SalGnt/next-template?label=Release&style=for-the-badge)](https://github.com/SalGnt/next-template/releases/latest)
-[![License](https://img.shields.io/github/license/SalGnt/next-template?label=License&style=for-the-badge)](https://github.com/SalGnt/next-template/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/SalGnt/next-template?style=for-the-badge)](https://github.com/SalGnt/next-template/releases/latest)
+[![License](https://img.shields.io/github/license/SalGnt/next-template?style=for-the-badge)](https://github.com/SalGnt/next-template/blob/main/LICENSE)
 
 This is a [Next.js](https://nextjs.org/) project template with TypeScript, Windi CSS, Jest, ESLint, Prettier, pnpm.
 
