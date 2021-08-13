@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Changed
+- Upgrade Next.js to version 11.1.
+
 ### Fixed
 - ESLint lint-staged configuration now parse only JavaScript and TypeScript files.
 
