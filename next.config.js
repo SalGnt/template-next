@@ -1,9 +1,11 @@
-const WindiCSS = require("windicss-webpack-plugin").default;
+/** @type {import('next').NextConfig} */
+const WindiCSSWebpackPlugin = require("windicss-webpack-plugin");
 
 module.exports = {
-  // ...
+  reactStrictMode: true,
+  swcMinify: true,
   webpack(config) {
-    config.plugins.push(new WindiCSS());
+    config.plugins.push(new WindiCSSWebpackPlugin());
     return config;
   },
 };
