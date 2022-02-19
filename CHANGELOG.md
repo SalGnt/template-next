@@ -7,7 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Changed
 - Enable TypeScript [Strict](https://www.typescriptlang.org/tsconfig#strict).
-- Upgrade Next.js to version 12.
+- Upgrade Node to version 16.14.0.
+- Upgrade Next.js to version 12.1.
 - Upgrade npm packages.
 - Enable React Strict Mode.
 - Enable SWC minify beta.
