@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const WindiCSSWebpackPlugin = require("windicss-webpack-plugin");
 
-module.exports = {
+const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   webpack(config) {
@@ -9,3 +9,5 @@ module.exports = {
     return config;
   },
 };
+
+module.exports = nextConfig;
