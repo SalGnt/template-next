@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Upgrade React to version 18.
+- Upgrade npm packages.
+- Based the .prettierignore file on .gitignore.
+
 ## [3.0.0] - 2022-02-19
 
 ### Added
