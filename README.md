@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/SalGnt/next-template)](https://github.com/SalGnt/next-template/blob/main/LICENSE)
 
-This is a [Next.js](https://nextjs.org/) project template with TypeScript, Windi CSS, Jest, ESLint, Prettier, pnpm.
+This is a Next.js project template with TypeScript, Windi CSS, Jest, ESLint, Prettier, pnpm.
 
 ## Getting Started
 
