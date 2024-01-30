@@ -1,36 +1,37 @@
 {
   "name": "@salgnt/next-template",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=18 <19",
-    "pnpm": ">=7 <8"
+    "node": ">=20 <21",
+    "pnpm": ">=8 <9"
   },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18"
+  },
   "devDependencies": {
-    "@babel/core": "^7.21.0",
-    "@types/node": "^18.15.0",
-    "@types/react": "^18.0.28",
-    "@types/react-dom": "^18.0.11",
-    "eslint": "^8.36.0",
-    "eslint-config-next": "^13.2.4",
-    "eslint-config-prettier": "^8.7.0",
-    "jest": "^29.5.0",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "eslint-config-prettier": "^9.1.0",
+    "jest": "^29",
     "nano-staged": "^0.8.0",
-    "next": "^13.2.4",
-    "prettier": "2.7.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "simple-git-hooks": "^2.8.1",
-    "typescript": "^4.9.5",
-    "windicss": "^3.5.6",
-    "windicss-webpack-plugin": "^1.7.8"
+    "postcss": "^8",
+    "prettier": "3.2.4",
+    "simple-git-hooks": "^2.9.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
   },
   "nano-staged": {
     "**/*.{js,jsx,ts,tsx}": "eslint --fix",
